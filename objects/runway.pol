@@ -1,0 +1,8 @@
+A
+850
+DRAPED_POLYGON
+ 
+TEXTURE transparent.png
+SCALE 25 25
+LAYER_GROUP taxiways +1
+SURFACE concrete
